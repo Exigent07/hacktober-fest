@@ -1,2 +1,2 @@
 # Hacktober Fest
-## Aravindh P
+Aravindh P
